@@ -4,6 +4,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 First, run the development server:
 
+![image](https://github.com/escaos/bluecoding/assets/102003661/83021b1c-7afe-4b72-8300-09353d181ec0)
+
+
 ```bash
 npm run dev
 # or
